@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:paddingTop="10sp"
+            android:text="Science-Fiction-Shamagra-Part-1-By-Muhammed-Zafar-Iqbal ->"
+            android:textSize="20sp"
+            android:id="@+id/bangla1"/>
+
+        <TextView
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="32sp"
+            android:text="Science-Fiction-Shamagra-Part-2-By-Muhammed-Zafar-Iqbal ->"
+            android:textSize="20sp"
+            android:id="@+id/bangla2"/>/>
+        <TextView
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="32sp"
+            android:text="Science-Fiction-Shamagra-Part-3-By-Muhammed-Zafar-Iqbal ->"
+            android:textSize="20sp"
+            android:id="@+id/bangla3"/>/>
+        <TextView
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="32sp"
+            android:text="Feluda Samagra-Part-1 ->"
+            android:textSize="20sp"
+            android:id="@+id/indian1"/>
+        <TextView
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="32sp"
+            android:text="Felu da part- 2 ->"
+            android:textSize="20sp"
+            android:id="@+id/indian2"/>
+
+        <TextView
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="32sp"
+            android:text="Felu da Part-3 ->"
+            android:textSize="20sp"
+            android:id="@+id/indian3"/>
+        <TextView
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="32sp"
+            android:text="King Solomon's Mines by Henry Rider Hagard ->"
+            android:textSize="20sp"
+            android:id="@+id/translated1"/>
+        <TextView
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="32sp"
+            android:text="Allan and the Holy Flower by Henry Rider Haggard ->"
+            android:textSize="20sp"
+            android:id="@+id/translated2"/>
+        <TextView
+            android:textColor="#000000"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="32sp"
+            android:text="Child Of Storm by Henry Rider Hagard ->"
+            android:textSize="20sp"
+            android:id="@+id/translated3"/>
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>
